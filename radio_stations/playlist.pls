@@ -1,10 +1,10 @@
 [playlist]
 
-File1=http://stream.open.fm/162?type=.aac
-Title1=Hot 100 - Gorąca Setka Hitów
+File1=http://stream4.nadaje.com/muzo
+Title1=muzo.fm
 
-File2=http://stream4.nadaje.com/muzo
-Title2=muzo.fm
+File2=http://stream.open.fm/162?type=.aac
+Title2=Hot 100 - Gorąca Setka Hitów
 
 File3=http://chi01.cdn.eurozet.pl:8900/chi-net.mp3
 Title3=Zet 80
